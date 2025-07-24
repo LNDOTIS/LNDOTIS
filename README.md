@@ -12,7 +12,9 @@
 -  📁 32 repositories total  
 -  🔓 1 public · 🔐 31 private  
 -  💼 Most are academic or research-based projects not yet open-sourced
- 
+### 📌 Pinned Projects 
+[![data-visualization-project](https://github-readme-stats.vercel.app/api/pin/?username=LNDOTIS&repo=data-visualization-project&theme=radical)](https://github.com/LNDOTIS/data-visualization-project)
+
 ### 📈 My statistics
 ![LNDOTIS's GitHub stats](https://github-readme-stats.vercel.app/api?username=LNDOTIS&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LNDOTIS&layout=compact&hide=html,css&theme=radical)
