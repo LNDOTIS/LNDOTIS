@@ -2,7 +2,6 @@
 ## Hello everyone ! I'm Long Nguyen a.k.a LNDOTIS
 🎓 I am currently a **Bachelor's student** majoring in Quantum Technology at Aalto University.  
 🌍 I am from Vietnam but currently in Finland. 
-
 📚 I am passionate about:
 - 🧠 Machine Learning & AI
 - ⚛️ Quantum Computing for ML & Optimization 
