@@ -6,7 +6,13 @@
 - 🧠 Machine Learning & AI
 - ⚛️ Quantum Computing for ML & Optimization 
 - 📈 Optimization Algorithms  
-- 🔍 Data Science & Complex Systems 
+- 🔍 Data Science & Complex Systems
+### 🧑‍💼 Repository Information
+
+📁 32 repositories total  
+🔓 1 public · 🔐 31 private  
+💼 Most are academic or research-based projects not yet open-sourced
+ 
 ### 📈 My statistics
 ![LNDOTIS's GitHub stats](https://github-readme-stats.vercel.app/api?username=LNDOTIS&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LNDOTIS&layout=compact&hide=html,css&theme=radical)
