@@ -13,7 +13,7 @@
 -  🔓 1 public · 🔐 31 private  
 -  💼 Most are academic or research-based projects not yet open-sourced
 ### 📌 Pinned Projects 
-[![data-visualization-project](https://github-readme-stats.vercel.app/api/pin/?username=LNDOTIS&repo=data-visualization-project&theme=radical)](https://github.com/LNDOTIS/data-visualization-project)
+[![data-visualization-project](https://github-readme-stats.vercel.app/api/pin/?username=LNDOTIS&repo=data-visualization-project&theme=radical)](https://github.com/LNDOTIS/Data-Visualization)
 
 ### 📈 My statistics
 ![LNDOTIS's GitHub stats](https://github-readme-stats.vercel.app/api?username=LNDOTIS&show_icons=true&theme=radical)
