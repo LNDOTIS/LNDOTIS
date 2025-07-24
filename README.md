@@ -9,3 +9,4 @@
 - 🔍 Data Science & Complex Systems 
 ### 📈 My statistics
 ![LNDOTIS's GitHub stats](https://github-readme-stats.vercel.app/api?username=LNDOTIS&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LNDOTIS&layout=compact&hide=html,css&theme=radical)
