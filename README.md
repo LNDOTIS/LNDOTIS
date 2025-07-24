@@ -7,5 +7,5 @@
 - ⚛️ Quantum Computing for ML & Optimization 
 - 📈 Optimization Algorithms  
 - 🔍 Data Science & Complex Systems 
-### 📈 GitHub Stats
+### 📈 My statistics
 ![LNDOTIS's GitHub stats](https://github-readme-stats.vercel.app/api?username=LNDOTIS&show_icons=true&theme=radical)
