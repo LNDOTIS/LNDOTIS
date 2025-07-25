@@ -1,4 +1,4 @@
-![My Profile Picture](https://github.com/LNDOTIS/LNDOTIS/blob/main/1752356655434.jpg)
+![My Profile Picture](https://github.com/LNDOTIS/LNDOTIS/blob/main/background.jpg)
 ## Hello everyone ! I'm Long Nguyen a.k.a LNDOTIS
 🎓 I am currently a **Bachelor's student** majoring in Quantum Technology at Aalto University.  
 🌍 I am from Vietnam but currently in Finland. 
