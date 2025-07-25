@@ -10,8 +10,8 @@
 - 🔍 Data Science & Complex Systems
 ### 🧑‍💼 Repository Information
 
--  📁 32 repositories total  
--  🔓 1 public · 🔐 31 private  
+-  📁 33 repositories total  
+-  🔓 2 public · 🔐 31 private  
 -  💼 Most are academic or research-based projects not yet open-sourced
 ### 📌 Pinned Projects 
 [![Data-Visualization](https://github-readme-stats.vercel.app/api/pin/?username=LNDOTIS&repo=Data-Visualization&theme=tokyonight)](https://github.com/LNDOTIS/Data-Visualization)
