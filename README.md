@@ -18,13 +18,13 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="60"/><br/>Python
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="60"/><br/>Python
     </td>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="60"/><br/>C
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++" width="60"/><br/>C++
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="60"/><br/>C++
     </td>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" alt="Scala" width="60"/><br/>Scala
