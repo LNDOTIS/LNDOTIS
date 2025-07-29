@@ -13,6 +13,48 @@
 -  📁 33 repositories total  
 -  🔓 1 public · 🔐 32 private  
 -  💼 Most are academic or research-based projects not yet open-sourced
+### 💻 Programming Languages & Tools
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="60"/><br/>Python
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="60"/><br/>C
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++" width="60"/><br/>C++
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" alt="Scala" width="60"/><br/>Scala
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="60"/><br/>SQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="60"/><br/>R
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Julia_Programming_Language_Logo.svg" alt="Julia" width="60"/><br/>Julia
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50"/><br/>Java
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="60"/><br/>Apache Spark
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="60"/><br/>Power BI
+    </td>
+  </tr>
+</table>
+
+
+
+
 ### 📌 Pinned Projects 
 [![Data-Visualization](https://github-readme-stats.vercel.app/api/pin/?username=LNDOTIS&repo=Data-Visualization&theme=tokyonight)](https://github.com/LNDOTIS/Data-Visualization)
 
