@@ -47,7 +47,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="60"/><br/>Apache Spark
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="60"/><br/>Power BI
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="60"/><br/>MATLAB
     </td>
   </tr>
 </table>
