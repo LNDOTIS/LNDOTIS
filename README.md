@@ -2,7 +2,7 @@
 ## Hello everyone ! I'm Long Nguyen a.k.a LNDOTIS
 🎓 I am currently a **Bachelor's student** majoring in Quantum Technology at **Aalto University**.  
 🎓 I am also minoring in **Computer Science** and **Data Science**.  
-🌍 I am from Vietnam but currently in Finland.  
+🌍 I am from Vietnam but currently in Helsinki, Finland.  
 📚 I am passionate about:
 - 🧠 Machine Learning & AI
 - ⚛️ Quantum Computing for ML & Optimization 
@@ -10,8 +10,8 @@
 - 🔍 Data Science & Complex Systems
 ### 🧑‍💼 Repository Information
 
--  📁 37 repositories total  
--  🔓 1 public · 🔐 36 private  
+-  📁 43 repositories total  
+-  🔓 1 public · 🔐 42 private  
 -  💼 Most are academic or research-based projects not yet open-sourced
 ### 💻 Programming Languages & Tools
 
