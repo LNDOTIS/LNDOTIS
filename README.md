@@ -10,8 +10,8 @@
 - 🔍 Data Science & Complex Systems
 ### 🧑‍💼 Repository Information
 
--  📁 36 repositories total  
--  🔓 1 public · 🔐 35 private  
+-  📁 37 repositories total  
+-  🔓 1 public · 🔐 36 private  
 -  💼 Most are academic or research-based projects not yet open-sourced
 ### 💻 Programming Languages & Tools
 
