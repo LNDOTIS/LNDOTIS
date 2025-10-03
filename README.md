@@ -1,11 +1,10 @@
 ![My Profile Picture](https://github.com/LNDOTIS/LNDOTIS/blob/main/background25.jpg)
 ## Hello everyone ! I'm Long Nguyen a.k.a LNDOTIS
-🎓 I am currently a **Bachelor's student** majoring in Quantum Technology at **Aalto University**.  
-🎓 I am also minoring in **Computer Science** and **Data Science**.  
+🎓 I am a **Master's student** majoring in Machine Learning, Data Science, and AI at **Aalto University**.    
+🎓 I am also minoring in **Finance** and **Operations Research**.  
 🌍 I am from Vietnam but currently in Helsinki, Finland.  
 📚 I am passionate about:
 - 🧠 Machine Learning & AI
-- ⚛️ Quantum Computing for ML & Optimization 
 - 📈 Optimization Algorithms  
 - 🔍 Data Science & Complex Systems
 ### 🧑‍💼 Repository Information
