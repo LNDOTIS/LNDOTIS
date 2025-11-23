@@ -55,7 +55,7 @@
 
 
 ### 📌 Pinned Projects 
-[![Data-Visualization](https://github-readme-stats.vercel.app/api/pin/?username=LNDOTIS&repo=Data-Visualization&theme=tokyonight)](https://github.com/LNDOTIS/Data-Visualization)
+
 
 ### 📈 My statistics
 ![LNDOTIS's GitHub stats](https://github-readme-stats.vercel.app/api?username=LNDOTIS&show_icons=true&theme=radical)
