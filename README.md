@@ -56,6 +56,3 @@
 
 ### 📌 Pinned Projects 
 
-
-### 📈 My statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LNDOTIS&layout=compact&theme=radical) 
