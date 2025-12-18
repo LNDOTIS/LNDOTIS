@@ -56,3 +56,16 @@
 
 ### 📌 Pinned Projects 
 
+### 📊 GitHub Statistics
+<div align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=LNDOTIS&show_icons=true&theme=tokyonight"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNDOTIS&layout=compact&theme=tokyonight"
+    height="165"
+  />
+</div>
+
+
