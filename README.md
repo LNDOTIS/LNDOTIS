@@ -10,7 +10,7 @@
 ### 🧑‍💼 Repository Information
 
 -  📁 70 repositories total  
--  🔓 4 public · 🔐 66 private  
+-  🔓 4 public · 🔐 67 private  
 -  💼 Most are academic or research-based projects not yet open-sourced
 ### 💻 Programming Languages & Tools
 
