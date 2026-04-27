@@ -26,9 +26,6 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="60"/><br/>C++
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" alt="Scala" width="60"/><br/>Scala
-    </td>
-    <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="60"/><br/>SQL
     </td>
   </tr>
