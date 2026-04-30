@@ -1,6 +1,6 @@
 ![My Profile Picture](https://github.com/LNDOTIS/LNDOTIS/blob/main/LAM%20SON.png)
 ## Hello everyone ! I'm Long Nguyen a.k.a LNDOTIS
-🎓 I am a **Master's student** majoring in Machine Learning, Data Science, and AI at **Aalto University**.    
+🎓 I am a **Master's student** majoring in **Machine Learning, Data Science, and AI** at **Aalto University**.    
 🎓 I am also minoring in **Quantitative Finance** and **Operations Research**.  
 🌍 I am from Vietnam but currently in Helsinki, Finland.  
 📚 I am passionate about:
